@@ -37,10 +37,26 @@ footer {
 	flex-shrink: 0;
 }
 
+#footer-icon {
+	padding: 10px;
+}
+
 /* ****************************************************
 OVERRIDE UIKIT */
 
 .uk-navbar-nav>li:hover>a, .uk-navbar-nav>li>a.uk-open, .uk-navbar-nav>li>a:focus {
 	color: #666;
 	outline: 0;
+}
+
+.uk-navbar-item, .uk-navbar-nav>li>a, .uk-navbar-toggle {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    box-sizing: border-box;
+    min-height: 50px;
+    padding: 0 15px;
+    font-size: .875rem;
+    font-family: -apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,"Helvetica Neue",Arial,sans-serif;
+    text-decoration: none;
 }
