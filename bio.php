@@ -4,20 +4,41 @@
 
 <div class="uk-panel">
     
-    <img class="uk-align-left uk-margin-remove-adjacent uk-width-1-1 uk-width-1-3@s" src="images/tristan_headshot.jpg"  height"150" alt="Example image">
-   
-   <p>Tristan Zaba is a musician prone to flights of experimentation"(Mark Anthony Brennan, ridethetempo.com), testing the preconceptions of various genres and disciplines. With the intent of engaging and challenging both audiences and fellow musicians in a meaningful way, Tristan seeks to employ experimentalism within a broader cultural context and has been compared to Frank Zappa by Doug Kretchmer of Community News Commons.</p>
+    <img class="uk-align-left uk-margin-remove-adjacent uk-width-1-1 uk-width-1-4@s" src="images/tristan_headshot.jpg"  height"150" alt="Example image">
 
-	<p>Notable past projects include his Zabathon shows, his 2016 opera I Hope I Shall Arrive Soon, his 2017 album Mosaic Suite, and the accompanying 2018 Mosaic Suite film co-directed with Greg Hanec. Tristan has performed and had pieces premiered at a variety of festivals across the country, including the Orford Festival, the Winnipeg New Music Festival, the Brandon New Music Festival, and the Casse Tête Festival. Collaborators have included Veronique Lacroix, the Bozzini Quartet, The University of Manitoba Singers, and the University of Manitoba Symphony Orchestra, among many others. He obtained a Bachelor's degree in Music Composition from the University of Manitoba in 2018.</p>
+	<p>Having lived across Canada and drawn influence from opera, philosophy, improv,
+	literature, and film, Toronto-based composer, vocalist, and multi-media artist
+	Tristan Zaba is a one-man melting pot. From his experimental rock albums to his
+	chamber music, Tristan’s rhythmically driven music questions itself, its audience
+	members, and its performers through the use of intertextual reference and
+	quotation.</p>
+
+	<p>Zaba has performed and had pieces premiered across Canada, including at
+	Orford Musique, the Winnipeg New Music Festival, the Brandon New Music
+	Festival, and Casse Tête. Ensembles that have performed Tristan’s pieces
+	include the University of Manitoba Singers, The Quatuor Bozzini, and the
+	University of Manitoba Symphony Orchestra. He is the 2018-2019 Composer in
+	Residence for the University of Toronto’s MacMillan Singers, and is currently
+	pursuing a Master of Music degree under Christos Hatzis.</p>
+
 </div>
 
-<h2 class="uk-heading-line"><span>Rock Band Lineup</span></h2>
+<h2 class="uk-heading-line"><span>Discography</span></h2>
 
 <ul class="uk-list uk-list-bullet">
-    <li>Tristan Zaba - Vocals, Flute, Guitar, Keyboards, Percussion</li>
-	<li>Isaac Zee - Backing Vocals, Violin</li>
-	<li>Lucas Redekop - Bass Guitar</li>
-	<li>Kerrigan Salnikowski - Drums, Percussion</li>
+	<li>Sappho/Zaba “Skullcrusher Mountain Single” - Performer, Producer, Mixing (2018)</li>
+	<li>Tristan Zaba "Mosaic Suite” - Performer, Composer, Producer, Mixing (2017)</li>
+	<li>Ingrid Hansen Smythe "Like a Tide Rising” - Performer, Consultant (2017)</li>
+	<li>Sapphire Empire "Untitled Album” - Producer, Mixing (2016)</li>
+	<li>Zaba "In The Round” - Performer, Composer, Producer, Mixing (2014)</li>
+	<li>Tristan Zaba "Thoughts Past Pondered” - Performer, Composer, Producer (2012)</li>
 </ul>
+
+<h2 class="uk-heading-line"><span>Filmography</span></h2>
+
+<ul class="uk-list uk-list-bullet">
+	<li>Mosaic Suite - Co-director, Producer, Editor (2018)</li>
+</ul>
+  
 
 <?php echo file_get_contents( "mainPhp/main_layout_bottom.php" ); ?>

@@ -6,7 +6,7 @@
 
 	<meta name="viewport" content="width=device-width, initial-scale=1">
 
-	<!-- UIkit -->	
+	<!-- UIkit V3 -->	
 	<link rel="stylesheet" href="css/uikit.min.css" />
 	<script type="text/javascript" src="js/uikit.min.js"></script>
 	<script type="text/javascript" src="js/uikit-icons.min.js"></script>
@@ -59,8 +59,8 @@
 				<ul class="uk-navbar-nav">
 					<li class=""><a href="index.php"><span uk-icon="icon: home; ratio: 1.3"></span></a></li>	
 					<li class="uk-visible@s"><a href="bio.php">Bio</a></li>
-					<li class="uk-visible@s"><a href="musical-works.php">Musical Works</a></li>
-					<li class="uk-visible@s"><a href="news-events.php">News and Events</a></li>
+					<li class="uk-visible@s"><a href="musical-works.php">Works</a></li>
+					<li class="uk-visible@s"><a href="news-events.php">News</a></li>
 					<li class="uk-visible@s"><a href="contact.php">Contact</a></li> 
 				</ul>
 			</div>
@@ -81,8 +81,8 @@
 
 			        <ul class="uk-nav uk-nav-default">
 			            <li class=""><a href="bio.php">Bio</a></li>
-					<li class=""><a href="musical-works.php">Musical Works</a></li>
-					<li class=""><a href="news-events.php">News and Events</a></li>
+					<li class=""><a href="musical-works.php">Works</a></li>
+					<li class=""><a href="news-events.php">News</a></li>
 					<li class=""><a href="contact.php">Contact</a></li> 
 			        </ul>
 
