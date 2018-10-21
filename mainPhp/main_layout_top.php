@@ -41,13 +41,17 @@
 
 	<div class="zaba-content">
 
-		<div style="background-image: url('https://images.pexels.com/photos/414171/pexels-photo-414171.jpeg'); background-size: cover; background-repeat: no-repeat; background-position: center center; background-attachment: fixed; height: 240px;">
+		<div class="uk-background-cover uk-background-fixed uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(images/banner.jpg);">
+            <t>Tristan Zaba</t>
+        </div>
+
+		<!-- <div style="background-image: url('images/banner.jpg'); background-size: cover; background-repeat: no-repeat; background-position: center center; background-attachment: fixed; height: 240px;">
 
 			<div style="background: #00000091; height: -webkit-fill-available;">
 				<t>Tristan Zaba</t>
 			</div>
 			
-		</div>
+		</div> -->
 
 		<nav id="top-nav-bar" class="uk-navbar-container" uk-navbar uk-sticky="top: 0;" style="background: #000000cc; margin-top: -50px;">
 			<div class="uk-navbar-left">
@@ -80,10 +84,10 @@
 			    <div class="uk-offcanvas-bar">
 
 			        <ul class="uk-nav uk-nav-default">
-			            <li class=""><a href="bio.php">Bio</a></li>
-					<li class=""><a href="musical-works.php">Works</a></li>
-					<li class=""><a href="news-events.php">News</a></li>
-					<li class=""><a href="contact.php">Contact</a></li> 
+		            <li style="font-size: 25px;" class=""><a href="bio.php">Bio</a></li>
+					<li style="font-size: 25px;" class=""><a href="musical-works.php">Works</a></li>
+					<li style="font-size: 25px;" class=""><a href="news-events.php">News</a></li>
+					<li style="font-size: 25px;" class=""><a href="contact.php">Contact</a></li> 
 			        </ul>
 
 			    </div>

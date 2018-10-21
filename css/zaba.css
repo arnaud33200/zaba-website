@@ -16,6 +16,12 @@ t {
     display: grid;
 }
 
+@media only screen and (max-width: 500px) {
+    t {
+        font-size: 40px;
+    }
+}
+
 /* ****************************************************
 FOOTER STICK BOTTOM */
 
