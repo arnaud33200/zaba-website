@@ -6,27 +6,16 @@
     
     <img class="uk-align-left uk-margin-remove-adjacent uk-width-1-1 uk-width-1-4@s" src="images/tristan_headshot.jpg"  height"150" alt="Example image">
 
-	<p>Having lived across Canada and drawn influence from opera, philosophy, improv,
-	literature, and film, Toronto-based composer, vocalist, and multi-media artist
-	Tristan Zaba is a one-man melting pot. From his experimental rock albums to his
-	chamber music, Tristan’s rhythmically driven music questions itself, its audience
-	members, and its performers through the use of intertextual reference and
-	quotation.</p>
+	<p>Having lived across Canada and drawn influence from opera, philosophy, improv, literature, and film, Toronto-based composer, vocalist, and multi-media artist Tristan Zaba is a one-man melting pot. From his experimental rock albums to his chamber work, Tristan’s rhythmically driven music questions itself, its audience members, and its performers through the use of intertextual reference and quotation.</p>
 
-	<p>Zaba has performed and had pieces premiered across Canada, including at
-	Orford Musique, the Winnipeg New Music Festival, the Brandon New Music
-	Festival, and Casse Tête. Ensembles that have performed Tristan’s pieces
-	include the University of Manitoba Singers, The Quatuor Bozzini, and the
-	University of Manitoba Symphony Orchestra. He is the 2018-2019 Composer in
-	Residence for the University of Toronto’s MacMillan Singers, and is currently
-	pursuing a Master of Music degree under Christos Hatzis.</p>
+	<p>Zaba has performed and had pieces premiered across Canada, including at Orford Musique, the Winnipeg New Music Festival, the Brandon New Music Festival, and Casse Tête. Ensembles that have performed Tristan’s pieces include the University of Manitoba Singers, The Quatuor Bozzini, and the University of Manitoba Symphony Orchestra. He is the 2018-2019 Composer in Residence for the University of Toronto’s MacMillan Singers, and is currently pursuing a Master of Music degree under Christos Hatzis.</p>
 
 </div>
 
 <h2 class="uk-heading-line"><span>Discography</span></h2>
 
 <ul class="uk-list uk-list-bullet">
-	<li>Sappho/Zaba “Skullcrusher Mountain Single” - Performer, Producer, Mixing (2018)</li>
+	<!-- <li>Sappho/Zaba “Skullcrusher Mountain Single” - Performer, Producer, Mixing (2018)</li> -->
 	<li>Tristan Zaba "Mosaic Suite” - Performer, Composer, Producer, Mixing (2017)</li>
 	<li>Ingrid Hansen Smythe "Like a Tide Rising” - Performer, Consultant (2017)</li>
 	<li>Sapphire Empire "Untitled Album” - Producer, Mixing (2016)</li>

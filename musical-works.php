@@ -14,18 +14,14 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 		<li>The Chromacluster Boogie – Flute, Clarinet, Violin, Cello, Piano (2016)</li>
 		<li>Bow I.E. – String Quartet (2016)</li>
 		<li>Blow Thou Winter Wynd – Soprano, Bass, Flute, Clarinet, Viola, Piano (2016)</li>
-		<li>Channeling (co-composed) – Flute, Clarinet, Prepared Electric Guitar, Live</li>
-	</ul>
-
-	<h2 class="uk-heading-line"><span>Electronics (2015)</span></h2>
-	<ul class="uk-list uk-list-striped">
+		<li>Channeling (co-composed) – Flute, Clarinet, Prepared Electric Guitar, Live Electronics (2015)</li>
 		<li>Altercations – Violin, Cello, Piano (2015)</li>
 		<li>Perdita – Mezzo-Soprano, Bass, Flute, Cello, Piano (2015)</li>
 	</ul>
 
 	<h2 class="uk-heading-line"><span>Choral</span></h2>
 	<ul class="uk-list uk-list-striped">
-		<li>Like a Geometer - SATB choir, Organ (2018) or SATB choir, Live electronics</li>
+		<li>Like a Geometer - SATB choir, Organ (2018)</li>
 		<li>Expansion – SATB choir, Snare drum (2015)</li>
 	</ul>
 
