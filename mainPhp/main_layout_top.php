@@ -4,7 +4,8 @@
 	<title>Tristan Zaba</title>
 	<link rel="shortcut icon" href="images/tabicon.png">
 
-	<meta name="viewport" content="width=device-width, initial-scale=1">
+	<!-- <meta name="viewport" content="width=device-width, initial-scale=1"> -->
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
 	<!-- UIkit V3 -->	
 	<link rel="stylesheet" href="css/uikit.min.css" />
@@ -42,9 +43,12 @@
 	<div class="zaba-content">
 
 		<div class="uk-background-cover uk-background-fixed uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(images/banner.jpg);">
-			<div style="height: -webkit-fill-available; width: -webkit-fill-available; position: absolute;">
+
+			<t class="uk-text-center">Tristan Zaba</t>
+
+			<!-- <div style="height: -webkit-fill-available; width: -webkit-fill-available; position: absolute;">
             	<t class="" style="margin-top: 100px;">Tristan Zaba</t>            
-            	</div>
+            	</div> -->
     	</div>
 		
 

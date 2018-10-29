@@ -76,7 +76,8 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 	    <p>The finished video of the third and final Winnipeg “Zabathon" concert, which occurred on March 16th. </p>
 
 	    <!-- Video on Youtube: https://www.youtube.com/watch?v=8CYg6AJMqwA -->
-	    <iframe src="https://www.youtube.com/watch?v=8CYg6AJMqwA" width="560" height="315" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
+	   
+	    <iframe src="https://www.youtube.com/embed/8CYg6AJMqwA" width="560" height="315" frameborder="0" allowfullscreen uk-responsive uk-video="automute: true"></iframe>
 	    <!-- <iframe width="560" height="315" src="https://www.youtube.com/embed/8CYg6AJMqwA" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe> -->
 	</article>
 
