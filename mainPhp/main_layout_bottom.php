@@ -18,8 +18,7 @@
 		<a id="footer-icon" uk-icon="icon: twitter; ratio: 1" target="_blank" href="https://twitter.com/tristan_zaba"></a>
 		<a id="footer-icon" uk-icon="icon: youtube; ratio: 1" target="_blank" href="https://youtube.com/user/zabaofficial"></a>
 		<a id="footer-icon" uk-icon="icon: soundcloud; ratio: 1" target="_blank" href="https://soundcloud.com/tristan-zaba"></a>
-		
-
+		<a id="footer-icon" uk-icon="icon: bandcamp; ratio: 1" target="_blank" href="https://tristanzaba.bandcamp.com"></a>
 	</footer>
 
 </body>

@@ -32,12 +32,12 @@
 <h2 class="uk-heading-line"><span>Contact</span></h2>
 
 <ul class="uk-list uk-column-1-2@s">
-    <li>Mail - <a class="uk-link-muted" href="mailto:zabaofficial@gmail.com">zabaofficial@gmail.com</a></li>
-    <li>Facebook - <a class="uk-link-muted" target="_blank" href="https://facebook.com/tristanzababand">tristanzababand</a></li>
-	<li>Twitter - <a class="uk-link-muted" target="_blank" href="https://twitter.com/tristan_zaba">tristan_zaba</a></li>
-	<li>YouTube - <a class="uk-link-muted" target="_blank" href="https://youtube.com/user/zabaofficial">zabaofficial</a></li>
-	<li>Soundcloud - <a class="uk-link-muted" target="_blank" href="https://soundcloud.com/tristan-zaba">tristan-zaba</a></li>
-	<li>Bandcamp - <a class="uk-link-muted" target="_blank" href="https://tristanzaba.bandcamp.com">tristanzaba</a></li>
+    <li><a class="uk-link-muted" href="mailto:zabaofficial@gmail.com"><span class="uk-icon-button" uk-icon="icon: mail; ratio: 1"></span> zabaofficial@gmail.com</a></li>
+    <li><a class="uk-link-muted" target="_blank" href="https://facebook.com/tristanzababand"><span class="uk-icon-button" uk-icon="icon: facebook; ratio: 1"></span> tristanzababand</a></li>
+	<li><a class="uk-link-muted" target="_blank" href="https://twitter.com/tristan_zaba"><span class="uk-icon-button" uk-icon="icon: twitter; ratio: 1"></span> tristan_zaba</a></li>
+	<li><a class="uk-link-muted" target="_blank" href="https://youtube.com/user/zabaofficial"><span class="uk-icon-button" uk-icon="icon: youtube; ratio: 1"></span> zabaofficial</a></li>
+	<li><a class="uk-link-muted" target="_blank" href="https://soundcloud.com/tristan-zaba"><span class="uk-icon-button" uk-icon="icon: soundcloud; ratio: 1"></span> tristan-zaba</a></li>
+	<li><a class="uk-link-muted" target="_blank" href="https://tristanzaba.bandcamp.com"><span class="uk-icon-button" uk-icon="icon: bandcamp; ratio: 1"></span> tristanzaba</a></li>
 </ul>
   
 
