@@ -42,7 +42,7 @@
 	<div class="zaba-content">
 
 		<div class="uk-background-cover uk-background-fixed uk-height-medium uk-panel uk-flex uk-flex-center uk-flex-middle" style="background-image: url(images/banner.jpg);">
-			<div style="background: #00000091; height: -webkit-fill-available; width: -webkit-fill-available; position: absolute;">
+			<div style="height: -webkit-fill-available; width: -webkit-fill-available; position: absolute;">
             	<t class="" style="margin-top: 100px;">Tristan Zaba</t>            
             	</div>
     	</div>
