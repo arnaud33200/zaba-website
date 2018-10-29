@@ -10,7 +10,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 			<a href="bio.php">
 			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-bio.jpg);">
-		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
+		    <div class="uk-overlay uk-overlay-default uk-position-bottom" style="padding: 15px;">
                 <p>Bio</p>
             </div>
 		</div></a>
@@ -20,7 +20,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 			<a href="musical-works.php">
 			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-works.jpg);">
-		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
+		    <div class="uk-overlay uk-overlay-default uk-position-bottom" style="padding: 15px;">
                 <p>Works</p>
             </div>
 			</div></a>
@@ -30,7 +30,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 			<a href="news-events.php">
 			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-news.jpg);">
-		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
+		    <div class="uk-overlay uk-overlay-default uk-position-bottom" style="padding: 15px;">
                 <p>News</p>
             </div>
 			</div></a>
@@ -40,7 +40,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 			<a href="contact.php">
 			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-contact.jpg);">
-		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
+		    <div class="uk-overlay uk-overlay-default uk-position-bottom" style="padding: 15px;">
                 <p>Contact</p>
             </div>
 			</div></a>
