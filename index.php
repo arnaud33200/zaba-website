@@ -8,7 +8,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 
 		<div>
 			<a href="bio.php">
-			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-right" 
+			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-bio.jpg);">
 		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
                 <p>Bio</p>
@@ -18,7 +18,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 
 		<div>
 			<a href="musical-works.php">
-			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover" 
+			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-works.jpg);">
 		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
                 <p>Works</p>
@@ -28,7 +28,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 
 		<div>
 			<a href="news-events.php">
-			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover" 
+			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-news.jpg);">
 		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
                 <p>News</p>
@@ -38,7 +38,7 @@ echo file_get_contents( "mainPhp/main_layout_top.php" );
 
 		<div>
 			<a href="contact.php">
-			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover" 
+			<div class="uk-margin uk-card uk-card-default uk-card-body uk-height-small uk-background-cover uk-background-top-center" 
 			style="background-image: url(images/nav-contact.jpg);">
 		    <div class="uk-overlay uk-overlay-default uk-position-bottom">
                 <p>Contact</p>
