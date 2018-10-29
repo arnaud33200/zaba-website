@@ -9,7 +9,7 @@
 	<footer uk-sticky="bottom: true" style="background: #d8dada; padding: 10px 20px 10px 20px">
 
 		<div id="developer-info" style="float: right;">
-			<em style="display: block; color: #666666;" class="uk-text-meta uk-text-right">developed by</br>Arnaud.L</em>			
+			<a href="https://github.com/arnaud33200/zaba-website" target="_blank"><em style="display: block; color: #666666;" class="uk-text-meta uk-text-right">developed by</br>Arnaud.L</em></a>
 		</div>
 
 		<em style="display: block; color: #666666;" class="uk-text-meta">Tristan Zaba 2018</em>

@@ -28,6 +28,17 @@
 <ul class="uk-list uk-list-bullet">
 	<li>Mosaic Suite - Co-director, Producer, Editor (2018)</li>
 </ul>
+
+<h2 class="uk-heading-line"><span>Contact</span></h2>
+
+<ul class="uk-list uk-column-1-2@s">
+    <li>Mail - <a class="uk-link-muted" href="mailto:zabaofficial@gmail.com">zabaofficial@gmail.com</a></li>
+    <li>Facebook - <a class="uk-link-muted" target="_blank" href="https://facebook.com/tristanzababand">tristanzababand</a></li>
+	<li>Twitter - <a class="uk-link-muted" target="_blank" href="https://twitter.com/tristan_zaba">tristan_zaba</a></li>
+	<li>YouTube - <a class="uk-link-muted" target="_blank" href="https://youtube.com/user/zabaofficial">zabaofficial</a></li>
+	<li>Soundcloud - <a class="uk-link-muted" target="_blank" href="https://soundcloud.com/tristan-zaba">tristan-zaba</a></li>
+	<li>Bandcamp - <a class="uk-link-muted" target="_blank" href="https://tristanzaba.bandcamp.com">tristanzaba</a></li>
+</ul>
   
 
 <?php echo file_get_contents( "mainPhp/main_layout_bottom.php" ); ?>
